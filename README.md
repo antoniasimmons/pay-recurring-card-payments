@@ -29,4 +29,4 @@ The organisations taking part in this beta and adopting recurring payments are:
 * Scottish Social Services Council / Care Inspectorate
 * Stoke Council
 
-If you are interested in joining the private beta and using recurring card payments [email us](mailto:govuk-pay-support@digital.cabinet-office.gov.uk)
+If you are interested in joining the private beta and using recurring card payments [contact us](mailto:govuk-pay-support@digital.cabinet-office.gov.uk).
